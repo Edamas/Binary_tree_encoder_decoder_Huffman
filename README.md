@@ -1,7 +1,7 @@
 # Binary_tree_encoder_decoder_Huffman
 Plain Python (no libraries) to create a convertion table using binary tree to convert (encrypt and decrypt) strings to bits based on character's frequency.
 
-## Bellow, you can see the printed results for a data_sample that multiplies by 100 the portuguese characters average incidence:
+## Bellow, you can see the printed results for a data_sample based on average letter occurrence in brazilian portuguese (with the least common letters "w" and "y" appearing 1000 times):
 
 
 ## Frequency for each character:
